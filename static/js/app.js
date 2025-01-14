@@ -46,7 +46,7 @@ let pause = false;
 let seconds = 0;
 let score = 0;
 
-let isNewGame = true; // Global variable to track if it's a new game
+let isNewGame = true;
 
 let su = undefined;
 let su_answer = undefined;
@@ -74,11 +74,11 @@ const getPlayerName = () => localStorage.getItem('player_name');
 const showTime = (seconds) => new Date(seconds * 1000).toISOString().substr(11, 8);
 
 const clearSudoku = () => {
-    console.log("Clearing Sudoku grid..."); // Debugging output
+    console.log("Clearing Sudoku grid...");
     for (let i = 0; i < Math.pow(CONSTANT.GRID_SIZE, 2); i++) {
-        cells[i].innerHTML = ''; // Remove all images or content
-        cells[i].classList.remove('filled', 'selected', 'err', 'hover'); // Clear classes
-        cells[i].style.backgroundImage = ''; // Clear any background images
+        cells[i].innerHTML = '';
+        cells[i].classList.remove('filled', 'selected', 'err', 'hover');
+        cells[i].style.backgroundImage = '';
     }
 };
 
@@ -391,11 +391,11 @@ document.querySelector('#btn-level').addEventListener('click', (e) => {
 
 document.querySelector('#btn-play').addEventListener('click', () => {
     if (name_input.value.trim().length > 0) {
-        isNewGame = true; // Set to true for a new game
+        isNewGame = true;
         score = 0;
         updateScore();
         initSudoku();
-        startGame(); // Start the game
+        startGame();
     } else {
         name_input.classList.add('input-err');
         setTimeout(() => {
@@ -407,9 +407,9 @@ document.querySelector('#btn-play').addEventListener('click', () => {
 
 document.querySelector('#btn-continue').addEventListener('click', () => {
     if (name_input.value.trim().length > 0) {
-        isNewGame = false; // Set to false for continuing the game
+        isNewGame = false;
         loadSudoku();
-        startGame(); // Start the game
+        startGame();
     } else {
         name_input.classList.add('input-err');
         setTimeout(() => {
