@@ -22,7 +22,7 @@ Welcome to **Cat-Ku**, a fun and engaging twist on the traditional Sudoku game! 
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS and JavaScript (for interactive puzzle grid, styling, and game logic)
+- **Frontend:** HTML5, CSS and JavaScript (for interactive puzzle grid, styling, and game logic)
 - **Backend:** JavaScript (for game logic)
 - **Local Storage:** To store player progress and game state (e.g., continuing from where they left off)
 - **Time Tracking:** JavaScript timers to track puzzle-solving time and compare with others.
