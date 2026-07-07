@@ -29,26 +29,32 @@ Welcome to **Cat-Ku**, a fun and engaging twist on the traditional Sudoku game! 
 - **Hosting:** AWS Amplify for deploying and hosting the game online.
 - **Code Refinement:** Amazon Q Developer was used to refine and enhance the game’s codebase for improved performance and functionality.
 
-## AWS Services Used
+## AWS Services
 
-**Amazon Q Developer:**
+* **AWS Amplify** — Used to deploy and host the application.
+* **Amazon Q Developer** — Used to refine and improve parts of the codebase during development.
 
-This service was utilized to refine and optimize the game’s code, ensuring smooth and efficient gameplay.
+## Live Demo
 
-**AWS Amplify:**
+https://catku-jet.vercel.app/
 
-Cat-Ku is hosted online using AWS Amplify, which simplifies the process of deploying and managing the application.
+## Getting Started
 
-With AWS Amplify, the game is accessible to players worldwide, providing a seamless and scalable experience.
+```bash
+git clone https://github.com/adiba0-0/Cat-Ku.git
+```
 
-**Intended Purpose**
+Open `index.html` in your preferred browser.
 
-Cat-Ku aims to combine the intellectual challenge of Sudoku with the charm of cat imagery to create a unique and enjoyable gaming experience. The integration of AWS services enhances the gameplay by:
+## Preview
 
-=> Optimizing code through Amazon Q Developer for improved functionality.
+<img width="495" height="799" alt="Image" src="https://github.com/user-attachments/assets/66871a3c-129b-4eee-a358-2608feb626b8" />      <img width="500" height="797" alt="Image" src="https://github.com/user-attachments/assets/e41567a6-a79c-4a20-b991-18977c985ce1" />      <img width="499" height="796" alt="Image" src="https://github.com/user-attachments/assets/0d99432e-3974-4f00-a59d-428147423181" />      <img width="496" height="797" alt="Image" src="https://github.com/user-attachments/assets/8ad40ac9-4369-4e57-b20c-0fbf59bedc9f" />      <img width="497" height="796" alt="Image" src="https://github.com/user-attachments/assets/75a74b7e-98b0-4620-af29-0b10aeeed76d" />      <img width="492" height="799" alt="Image" src="https://github.com/user-attachments/assets/5da2d98f-714c-4e66-b618-22a0704313ae" />
 
-=> Ensuring accessibility through reliable online hosting.
 
-=> Offering scalability to handle players from around the globe.
 
-Whether you’re a Sudoku enthusiast or a cat lover, Cat-Ku promises to deliver hours of fun and challenge. Start playing today and see how high you can score!
+## Acknowledgements
+
+Cat-Ku was built as a hackathon project to combine the logic of Sudoku with a playful cat-inspired theme while creating an enjoyable browser-based puzzle experience.
+
+
+Cat-Ku was built as a hackathon project to combine the logic of Sudoku with a playful cat-inspired theme while creating an enjoyable browser-based puzzle experience.
