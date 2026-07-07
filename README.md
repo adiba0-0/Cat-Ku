@@ -73,6 +73,3 @@ Open `index.html` in your preferred browser.
 ## Acknowledgements
 
 Cat-Ku was built as a hackathon project to combine the logic of Sudoku with a playful cat-inspired theme while creating an enjoyable browser-based puzzle experience.
-
-
-Cat-Ku was built as a hackathon project to combine the logic of Sudoku with a playful cat-inspired theme while creating an enjoyable browser-based puzzle experience.
