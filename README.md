@@ -29,11 +29,6 @@ Welcome to **Cat-Ku**, a fun and engaging twist on the traditional Sudoku game! 
 - **Hosting:** AWS Amplify for deploying and hosting the game online.
 - **Code Refinement:** Amazon Q Developer was used to refine and enhance the game’s codebase for improved performance and functionality.
 
-## AWS Services
-
-* **AWS Amplify** — Used to deploy and host the application.
-* **Amazon Q Developer** — Used to refine and improve parts of the codebase during development.
-
 ## Live Demo
 
 https://catku-jet.vercel.app/
