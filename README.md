@@ -48,7 +48,25 @@ Open `index.html` in your preferred browser.
 
 ## Preview
 
-<img width="495" height="799" alt="Image" src="https://github.com/user-attachments/assets/66871a3c-129b-4eee-a358-2608feb626b8" />      <img width="500" height="797" alt="Image" src="https://github.com/user-attachments/assets/e41567a6-a79c-4a20-b991-18977c985ce1" />      <img width="499" height="796" alt="Image" src="https://github.com/user-attachments/assets/0d99432e-3974-4f00-a59d-428147423181" />      <img width="496" height="797" alt="Image" src="https://github.com/user-attachments/assets/8ad40ac9-4369-4e57-b20c-0fbf59bedc9f" />      <img width="497" height="796" alt="Image" src="https://github.com/user-attachments/assets/75a74b7e-98b0-4620-af29-0b10aeeed76d" />      <img width="492" height="799" alt="Image" src="https://github.com/user-attachments/assets/5da2d98f-714c-4e66-b618-22a0704313ae" />
+## Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66871a3c-129b-4eee-a358-2608feb626b8" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e41567a6-a79c-4a20-b991-18977c985ce1" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0d99432e-3974-4f00-a59d-428147423181" width="220" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ad40ac9-4369-4e57-b20c-0fbf59bedc9f" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/75a74b7e-98b0-4620-af29-0b10aeeed76d" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5da2d98f-714c-4e66-b618-22a0704313ae" width="220" />
+</p>
 
 
 
